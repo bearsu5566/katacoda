@@ -1,10 +1,8 @@
-Step1
+## Start Minikube
 
-## Task
+Start the cluster, by running the minikube start command:
 
-This is an _example_ of creating a scenario and running a **command**
-
-`echo 'Hello World'`{{execute}}
+`minikube start --wait=false`{{execute}}
 
 ## Enable Dashboard
 
