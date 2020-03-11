@@ -4,11 +4,7 @@ Start the cluster, by running the minikube start command:
 
 `minikube start --wait=false`{{execute}}
 
-## Enable Dashboard
-
-Enable the dashboard using Minikube with the command
-
-`minikube addons enable dashboard`{{execute}}
+## Access Dashboard
 
 Make the Kubernetes Dashboard available by deploying the following YAML definition. This should only be used on Katacoda.
 
