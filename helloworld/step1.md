@@ -1,5 +1,3 @@
-## Start Minikube
-
 Start the cluster, by running the minikube start command:
 
 `minikube start --wait=false`{{execute}}
